@@ -1,0 +1,10 @@
+C:\Users\metha\Desktop\C# Lessons\Lessons\JSON\bin\Debug\JSON.exe.config
+C:\Users\metha\Desktop\C# Lessons\Lessons\JSON\bin\Debug\JSON.exe
+C:\Users\metha\Desktop\C# Lessons\Lessons\JSON\bin\Debug\JSON.pdb
+C:\Users\metha\Desktop\C# Lessons\Lessons\JSON\obj\Debug\JSON.csproj.AssemblyReference.cache
+C:\Users\metha\Desktop\C# Lessons\Lessons\JSON\obj\Debug\JSON.Form1.resources
+C:\Users\metha\Desktop\C# Lessons\Lessons\JSON\obj\Debug\JSON.Properties.Resources.resources
+C:\Users\metha\Desktop\C# Lessons\Lessons\JSON\obj\Debug\JSON.csproj.GenerateResource.cache
+C:\Users\metha\Desktop\C# Lessons\Lessons\JSON\obj\Debug\JSON.csproj.CoreCompileInputs.cache
+C:\Users\metha\Desktop\C# Lessons\Lessons\JSON\obj\Debug\JSON.exe
+C:\Users\metha\Desktop\C# Lessons\Lessons\JSON\obj\Debug\JSON.pdb
